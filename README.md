@@ -28,13 +28,11 @@ Arduino를 사용하여 4방향 교차로에서 LED신호등을 제어하기 위
 다소 막연한 이상을 떠올려보는 것에 멈추지 않고 이를 최대한으로 구체화,현실화 할 수 있도록 노력. 
 
 
-
-
 ### 이용 프로그램
 GPIO - LED   
 GPIO - Switch  
 GPIO - FND  
 GPIO - BUzzer  
 Timer/Interrupt - msTiner
-
+---------------------------------
 
